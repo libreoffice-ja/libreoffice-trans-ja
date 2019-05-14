@@ -1,0 +1,892 @@
+AND	論理和
+Abstract	概要
+Accelerator	アクセラレータ
+Accept	受諾
+Account	アカウント
+Active	アクティブ
+Actor	俳優
+Actuator	作動装置
+Add	追加
+Address	アドレス
+Adjust	調整
+Administration	管理
+Aggregate	総計
+Alarm	アラーム
+Align	整列
+Allow	許可
+Alpha	アルファ
+Also used as a synonym to active.	有効な類義語としても使用されています．
+Analog	アナログ
+Analysis	解析
+Anchor	アンカー
+Animation	アニメーション
+Anonymous	匿名
+Answer mode	返答モード
+Antialiasing	アンチエイリアシング
+Append	追加
+Applet	アプレット
+Application	アプリケーション
+Application Launcher	アプリケーションランチャー
+Applix	付録
+Arc	円弧
+Argument	引数
+Array	配列
+Arrow key	十字キー
+Article	雑誌
+Ascending order	昇順
+Ascii	Ascii
+Asynchronous	非同期
+Attachment	添付
+Attribute	属性
+Audio	オーディオ
+Authentication	認証
+Author	作者
+Autofill	オートフィル
+Availability	有効性
+Average	平均
+Axis	軸
+Background	背景
+Backup	バックアップ
+Balance	バランス
+Base	底
+Binary	バイナリ
+Binding	結合
+Binomial distribution	二項分布
+Bit	ビット
+Bitmap	ビットマップ
+Blank	空白
+Blinking cursor	点滅中のカーソル
+Blocked	ブロックする
+Blur image	ぼかした画像
+Bold	太字
+Boolean	論理値
+Box	ボックス
+Branch	ブランチ
+Bricks	固定資産
+Browse	閲覧
+Browser	ブラウザ
+Buffer	バッファ
+Build	構築
+Bullet	丸
+Bulletin Board	掲示版
+Bus	バス
+Busy	ビジー
+Button	ボタン
+Byte	バイト
+C	C
+CD	CD
+CDE panel	CDEパネル
+CORBA	CORBA
+CPU	CPU
+Cache	キャッシュ
+Calculator	演算装置
+Calendar	カレンダー
+Call	呼出し
+Cancel	取消し
+Caption	見出し
+Case Sensitive	大文字・小文字を区別
+Categories	部類
+Cell	セル
+Cellular	セルの
+Center	中央
+Channel	チャンネル
+Character set	文字集合
+Chat	チャット
+Check bit	チェックビット
+Checkbox	チェックボックス
+Class	クラス
+Classification	分類
+Clear	消去
+Clipboard	クリップボード
+Close	閉じる
+Coefficient	係数
+Collaboration	協力
+Collate	照合
+Collision	衝突
+Command	命令
+Command Line	コマンドライン
+Command line options	コマンドラインオプション
+Common properties	共通プロパティ
+Compare	比較
+Concatenate	連結
+Condition	状態
+Conduit	溝
+Confidential	機密
+Configuration	設定
+Confirm	確認
+Confirmation	承認
+Connection	接続
+Constraint	制約
+Content	内容
+Continue	続行
+Control	制御
+Conversion	変換
+Copy	複写
+Copyright	著作権表示
+Core file	coreファイル
+Correlation	相互関係
+Cost	費用
+Count	回数
+Covariance	共分散
+Create	作成
+Criteria range	標準範囲
+Critical error	致命的なエラー
+Crop	切り抜き
+Cross-reference	相互参照
+Ctrl	Ctrl
+Cumulative	累積
+Current	現在の
+Curve	曲線
+Customize	カスタマイズ
+Cut	切り取り
+DMA	DMA
+DNS	DNS
+Daemon	デーモン
+Data	データ
+Debug	デバッグ
+Decrease	減少
+Default	初期値
+Delete	削除
+Dependence	依存関係
+Derived	派生的
+Descending sort	降順並び変え
+Descriptor	ディスクリプタ
+Desktop	デスクトップ
+Desktop Environment	デスクトップ環境
+Destination	移動先
+Destroy	破棄
+Detection	検出
+Device	装置
+Diagonal	対角線
+Diagram	ダイアグラム
+Dial	ダイアル
+Dialog Box	ダイアログボックス
+Dialout Device	発信デバイス
+Digits	数字
+Dimension	方向
+Direction	方向
+Directory	ディレクトリ
+Disable	無効
+Discard	破棄
+Disconnect	未接続
+Discrete	離散
+Dismiss	棄却
+Display	ディスプレイ
+Dissipation	損失
+Distribute	分散
+Distribution list	配布物
+Dithering	ディザリング
+Division by zero	零による除算
+Document	文書
+Domain	ドメイン
+Dot	ドット
+Download	ダウンロード
+Drawing Area	描写領域
+Drop	ドロップ
+Druid	ドルイド
+Duplicate...	複製...
+Dynamic	動的
+E-mail	E-mail
+Echo	エコー
+Edge	縁
+Edit	編集
+Effects	影響
+Eject	取り出し
+Electronic Mail	電子メール
+Enable	有効
+Encapsulated Postscript	Encapsulated Postscript
+Encoding	符号化方式
+Engineering	エンジニアリング
+Entity	実体
+Equation	等式
+Error	エラー
+Ethernet	イーサネット
+Event	イベント
+Exception	例外
+Exclusive OR	排他的論理和
+Execute	実行
+Exit	終了
+Expanded memory	拡張メモリ
+Explicit state	明確な状態
+Exponential notation	指数指定
+Export	エクスポート
+Extension	拡張子
+Extract	抽出
+FTP	FTP
+Favorite	お気に入り
+Fax	ファックス
+Field	欄
+File	ファイル
+Filename	ファイル名
+Filesystem	ファイルシステム
+Fill	塗りつぶし
+Filter	フィルター
+Find	検索
+Firmware	ファームウェア
+Fixed Font	固定幅フォント
+Float	浮動小数点定数
+Floppy	フロッピー
+Flow analysis	フロー解析
+Flowchart	流れ図
+Folder	フォルダ
+Font	書体
+Footer	フッター
+Forecast	予測
+Foreground	前景
+Form	フォーム
+Format	形式
+Formula	式
+Fourier Analysis	フーリエ解析
+Fraction	分数
+Frame	フレーム
+Free Software	フリーソフトウェア
+Frequency	周波数
+Function	関数
+GNOME	GNOME
+GNU	GNU(フリーソフトウェア財団)
+GPL	GPL(GNU一般公有使用許諾契約書)
+GUI	GUI
+Gamma	ガンマ
+Geometry	幾何学
+Global	大域
+Grab	取得
+Gradient	勾配
+Graph	グラフ
+Graphical user interface	グラフィカルユーザインターフェイス
+Grid	マス目
+Group	グループ
+Gtk	GTK
+Gutter	のり白
+HTML	HTML
+HTTP	HTTP
+Hacker	ハッカー
+Handle	ハンドル
+Handshake	握手
+Hard Disk	ハードティスク
+Header	ヘッダー
+Headword	見出し語
+Hello World	こんにちは、世界
+Help	ヘルプ
+Hex	16進数
+Hidden file	隠しファイル
+Hide	隠す
+Highlight...	ハイライト...
+Histogram	ヒストグラム
+History	履歴
+Home	ホーム
+Home Page	ホームページ
+Home directory	ホームディレクトリ
+Homogeneous environment	同じ環境
+Host	ホスト
+Host name	ホスト名
+Hot Key	ホットキー
+Housekeeping	保守
+Hue	色相
+I/O subsystem	I/Oサブシステム
+ID	ID
+IDE	IDE
+IP Address	IPアドレス
+IRC	IRC
+Icon	アイコン
+Identifier	識別子
+Idle	待機
+Illegal	不正な
+Image	画像
+Implementation	実装
+Import	インポート
+Inactive window	アクティブでないウィンドウ
+Increase	増加
+Incremental update	増分更新
+Indent	インデント
+Index	索引
+Indicator	インジケータ
+Information	情報
+Inode	Iノード
+Input	入力
+Input/output	入出力
+Insertion point	挿入ポイント
+Install	インストール
+Interaction	対話
+Intercept	傍受
+Interchange File Format	交換ファイルフォーマット
+Interface	インターフェイス
+Internal bug	内部バグ
+Internal error	内部エラー
+International	国際的
+Internet	インターネット
+Interrupt	割り込み
+Intersect	論理積
+Interval	間隔
+Intuitive	直観的
+Invalid	無効な
+Invert	反転
+Invert Selection	反転選択
+Invisible	不可視
+JPEG	JPEG
+Jaz Drive	ジャズドライブ
+Job	ジョブ
+Justify	揃え
+KDE	KDE
+Kernel	カーネル
+Key	キー
+Keyboard	キーボード
+Keymap control	キーマップ制御
+Keyword	キーワード
+Kill	殺す
+Kill app	強制終了
+Kilobyte	キロバイト
+LaTeX	LaTeX
+Label	ラベル
+Lambda	ラムダ
+Landscape	横置き
+Language	言語
+Launcher	ランチャー
+Layer	層
+Layout	レイアウト
+Legal	リーガルサイズ
+Length	長さ
+Letter	手紙サイズ
+Library	ライブラリ
+License agreement	許諾契約
+Light precipitation	小雨
+Limits	制限
+Line	行
+Link	リンク
+Linux	リナックス
+Local	ローカル
+Location	位置
+Lock	ロック
+Log	ログ
+Logical	論理
+Login	ログイン
+Logout	ログアウト
+Look	眺める
+Lookup	検索
+Loop	ループ
+MDI	MDI
+MS	MS
+MSDOS	MS-DOS
+MTU	MTU
+Macro	マクロ
+Mail	メール
+Mail Client	メールクライアント
+Mail server	メールサーバ
+Mail to	宛先
+Mailbox	メールボックス
+Main body	本体
+Man Pages	man ページ
+Manager	マネージャー
+Manual	マニュアル
+Manual page	マニュアルページ
+Margins	余白
+Mark	印
+Median	中央値
+Meeting	会議
+Memory	メモリ
+Menu	メニュー
+Merge	結合
+Message	メッセージ
+Metadata	メタデータ
+Metafile	メタファイル
+Mime Type	MIME型
+Minimize	最小化
+Modal (value)	モーダル (値)
+Mode	モード
+Model	モデル
+Modem	モデム
+Modifier	修飾子
+Modify	変更
+Module	モジュール
+Monitor	モニタ
+Mount	マウント
+Mouse Cursor	マウスカーソル
+Move	移動
+NO-DAEMON	ノーデーモン
+Nautilus	Nautilus
+Negative Binomial	負の二項分布
+Netmask	ネットマスク
+Netscape	Netscape
+Network	ネットワーク
+News Site	ニュースサイト
+Normal distribution	正規分布
+Notebook	ノートブック
+Notice	注意
+Notification	通知
+Number	番号
+Number Converter	番号変換
+Number Theory	整数論
+Numbered List	番号付きリスト
+Numeric	数値
+OR	論理和
+Object code	オブジェクトコード
+Observations	監視
+Obsolete	廃れた
+Offline	オフライン
+Online	オンライン
+Opacity	透明度
+Open	開く
+Open Source	オープンソース
+Operating System	オペレーティング・システム
+Operation	操作
+Options	オプション
+Order	順番
+Orientation	向き
+Origin	始点
+Orthflow	Orthflow
+Outline	輪郭
+Output	出力
+Overwrite	上書き
+Owner	所有者
+PID	PID
+PPP	PPP
+Pack	パック
+Package	パッケージ
+Packet	パケット
+Padding	パディング
+Page	ページ
+Pager	ページャ
+Palette	パレット
+Panel	パネル
+Panelize	パネル化
+Parameter	パラメータ
+Parcel	小包
+Parse	解析
+Partition	パーティション
+Password	パスワード
+Paste	貼り付け
+Path	パス
+Pattern	パターン
+Peak indicator	ピークインジケータ
+Pearson Correlation	ピアソン相関
+Period	期間
+Periodic	定期的
+Perl	Perl
+Perl Script	Perlスクリプト
+Permission	パーミッション
+Picker Settings	ピッカーの設定
+Pilot device	パイロットデバイス
+Pipe	パイプ
+Pixel	ピクセル
+Pixmap	ピックスマップ
+Place	場所
+Play	再生
+Plug-in	プラグイン
+Point	ポイント
+Poisson distribution	ポアソン分布
+Policy	方針
+Polygon	ポリゴン
+Polyline	折れ線
+Pooled Variance	合併分散
+Portrait	縦置き
+Post Office	郵便局
+Post Processor	ポストプロセッサ
+Postal Box	郵便箱
+Preferences	環境設定
+Prefix	接頭句
+Preview	プレビュー
+Primary Colors	原色
+Print	印刷
+Print area	印刷領域
+Printer	プリンター
+Priority	優先順位
+Privacy	プライバシー
+Private Messages	非公開メッセージ
+Private key	秘密鍵
+Problem	問題
+Process	プロセス
+Process ID	プロセスID
+Processor	演算器
+Prodigy	Prodigy
+Program	プログラム
+Progress	進展
+Progress Bar	プログレスバー
+Propagation	伝播
+Properties	プロパティ
+Proportional font	プロポーショナルフォント
+Protected	保護された
+Protection	保護
+Protocol	通信規約
+Provision	準備
+Proxy	プロクシ
+Public	公開
+Public Key	公開鍵
+Query	問合せ
+Queue	待ち行列
+Quit	終了
+Quoting	引用
+RPM package	RPMパッケージ
+Radar map	レーダーマップ
+Radio	ラジオ
+Radio Button	ラジオボタン
+Random	無作為
+Range	範囲
+Rank	ランク
+Rating	定格電流
+Ratio	割合
+Raw data	Raw データ
+Raw memory	Raw メモリー
+Readout	読み出し
+Real Memory	物理メモリ
+Real time	リアルタイム
+Reboot	再起動
+Receive	受信
+Receptivity	感度
+Record	レコード
+Rectangle	矩形
+Recurrence	反復
+Recursion	再帰
+Redisplay	再表示
+Redo	やり直し
+Refresh	リフレッシュ
+Region	範囲
+Regression analysis	回帰分析
+Regular expression	正規表現
+Regulate	レギュレート
+Relationship	関連
+Release	リリース
+Remote	遠隔
+Remove	削除
+Rename	名称変更
+Repeat	繰り返し
+Replace	置換
+Reports	レポート
+Reset	リセット
+Resident	常駐
+Resident memory	常駐メモリ
+Residual	残差
+Resize	サイズ変更
+Resolution	解像度
+Resource element	リソース要素
+Restart	再起動
+Resume	復元再開
+Retrieve	取り出す
+Retry	再試行
+Return	改行
+Reverse video	反転表示
+Revert	元に戻す
+Root	ルート
+Root Directory	ルートディレクトリ
+Root Window	ルートウィンドウ
+Rotate	回転
+Row	行
+Run	実行
+SC/XSpread	SC/XSpread
+SCSI	SCSI
+SLIP	SLIP
+SMTP	SMTP
+SOCKS Server	SOCKS サーバ
+SYLK file	シンボリックリンクファイル
+Sample	サンプル
+Sampling	抽出
+Saturation	彩度
+Save	保存
+Scalable	スケーラブル
+Scalar	スカラー
+Scale	スケール
+Scaling Factor	スケール係数
+Scan	走査
+Scientific notation	科学的表記(法)
+Screen	画面
+Screen Saver	スクリーンセーバー
+Script	スクリプト
+Scroll	スクロール
+Scrollbars	スクロールバー
+Search	検索
+Search Domains	ドメイン検索
+Secondary Colors	二次色
+Secure channel	セキュリティ保護されたチャネル
+Secure keyboard	安全キーボード
+Security	安全性
+Segment	セグメント
+Segmentation Fault	セグメンテーション違反
+Select	選択
+Selection	選択
+Send	送信
+Sense	感覚
+Sensitive	感度
+Separator	区切り文字
+Server	サーバ
+Session	セッション
+Set	設定
+Settings	設定
+Setup	セットアップ
+Severity	重大性
+Share	共有
+Shared Memory	共有メモリ
+Shell	シェル
+Shift key	Shift キー
+Show	表示
+Shut Down	停止
+Signal	信号
+Size box	サイズボックス
+Skewness	歪み
+Skip	スキップ
+Slant	傾き
+Slashed Cross	Slashed Cross
+Sleeping	スリープ状態
+Smart	スマート
+Smart terminal	スマート端末
+Snap	スナップ
+Snooze	スヌーズ
+Socket	ソケット
+Software Foundation	ソフトウェア財団
+Solid lines	ソリッドライン
+Solid model	ソリッドモデル
+Sort	並び変え
+Source	ソース
+Source code	ソースコード
+Space character	空白文字
+Spam	スパム
+Special character	特殊文字
+Spell	つづり
+Spell Checker	スペルチェッカー
+Stabilize	安定化
+Stack	スタック
+Standard	標準
+Standard deviation	標準偏差
+Standby	スタンバイ
+Start	開始
+Startup	スタートアップ
+Startup Program	スタートアッププログラム
+State	状態
+Statistics	統計
+Status	状態
+Stereotype	固定観念
+Stock Ticker	ストックティッカー
+Storage	ストレージ
+Strikethrough	取り消し線
+String	文字列
+Style	スタイル
+Subdirectory	サブディレクトリ
+Subject	件名
+Submenu	サブメニュー
+Submit	提出
+Subnet	サブネット
+Subscript	添字
+Suffix	接尾句
+Superscript	添字
+Support	サポート
+Suspend	サスペンド
+Swap	スワップ
+Switch level	スイッチレベル
+Symbol	シンボル
+Symbolic Link	シンボリックリンク
+Symmetric control	対称制御
+Synchronize	同期
+Syntax error	構文エラー
+System	システム
+System Administrator	システム管理者
+System Configuration	システム構成
+TCLASS	TCLASS
+TCP/IP	TCP/IP
+TERM variable	TERM 変数
+TODO List	やること一覧
+Tab	タブ
+Table	表
+Talk	Talk
+Telnet	telnet
+Template	テンプレート
+Term	用語
+Terminal	端末
+Terminate	終了する
+Test	検証
+Test Module	テスト モジュール
+Text	テキスト
+Text only	テキストのみ
+Theme	テーマ
+Threshold	しきい値
+Thumb Nails	サムネイル
+Tick	ティック
+Ticker Properties	ティッカープロパティ
+Tile	タイル
+Time format	時刻形式
+Timeout	タイムアウト
+Timer	タイマー
+Timezone	タイムゾーン
+Timing	タイミング
+Title	タイトル
+Tolerance	誤差
+Tool	ツール
+Toolbar	ツールバー
+Transfer	転送
+Transfer statement	転送状態
+Transitive	過渡期
+Translate	移植
+Transparent	透明な
+Transpose	入れ換え
+Trash	ごみ箱
+Tree	ツリー
+Trim	トリム
+Tty	TTY
+Turing Machine	チューリングマシン
+Type	型
+Type mismatch	型不整合
+UNIX	UNIX
+URL	URL
+USB	USB
+Undelete	削除のやり直し
+Underline	下線
+Undo	元に戻す
+Unexpected end	予期しない終了
+Unicode	Unicode
+Uninstall	アンインストール
+Unknown host	不明なホスト
+Unload	読み込み解除
+Untitled	タイトルなし
+Update	更新
+Upgrade	アップグレード
+Uptime	稼働時間
+Urgent condition	緊急状態
+User	利用者
+User Interface	ユーザ・インターフェイス
+User defined	利用者定義
+Username	ユーザ名
+VERBOSE	冗長
+VFS	仮想ファイルシステム
+Valid chars	有効文字列
+Value	値
+Variable	変数
+Variance	不一致
+Vector Graphics	ベクターグラフィック
+Vendor	製造元
+Verify	確認
+Version	版
+Vertical	垂直
+Vertical Alignment	垂直方向のアライメント
+Video	ビデオ
+View	表示
+Viewport	ビューポート
+Virtual	仮想
+Virtual Desktop	仮想デスクトップ
+Visualization	表示
+Volume	音量
+WVLAN	WVLAN
+Wallpaper	壁紙
+Warning	警告
+Watch file	ファイルを監視
+Web Page	ウェブページ
+Weight	重さ
+Widget	ウィジェット
+Width	幅
+Window	ウィンドウ
+Window Manager	ウィンドウ・マネージャ
+Word	言葉
+Work	仕事
+Workbook	ワークブック
+Workspaces	ワークスペース
+Wrap	折り返し
+Write	書き込み
+X Align	X で整列
+XDMCP socket	XDMCP ソケット
+XML	XML
+Zigzagline	ジグザグ線
+Zip Drive	ZIPドライブ
+Zoom	拡大
+abort	中止
+access	アクセス
+alpha channel	アルファチャンネル
+archive	アーカイブ
+archive file	アーカイブファイル
+area grid	マス目
+aspect ratio	縦横比
+block buffer	ブロックバッファ
+body	本文
+book mark	ブックマーク
+bug	バグ
+canvas	キャンバス
+char cell	文字セル
+child	子
+child process	子プロセス
+code	コード
+code segment	コードセグメント
+cookie	クッキー
+cos	cos
+crash	クラッシュ
+cursor	カーソル
+custom window	カスタムウィンドウ
+database	データベース
+decimal	十進数
+disk	ディスク
+dumb Terminal	ダム端末
+emulation	疑似環境
+environment variable	環境変数
+executable file	実行可能ファイル
+expected location	期待される場所
+expression	式
+fork	fork
+full pathname	フルパス名
+get	get
+hierachy	階層
+initialization	初期化
+insensitive version	不良版
+instruction pointer	命令ポインタ
+launch icon	起動アイコン
+line arguments	行引数
+linear transfer	リニア転送
+load	ロード
+matching	一致
+media type	メディアタイプ
+mini icons	小さいアイコン
+minix	Minix
+minor faults	マイナーフォールト
+mirror	ミラー
+mixer device	ミキサーデバイス
+monochrome	白黒
+node	ノード
+oblique	斜めの
+optional	省略可能な
+pending signals	保留状態のシグナル
+physical memory	物理メモリ
+picker button	ピッカーボタン
+popup menu	ポップアップメニュー
+port	ポート
+postscript	PostScript
+power management	電源管理
+project	プロジェクト
+protected workbooks	保護されたワークブック
+proxy server	プロクシサーバ
+ready...	よーい...
+real path	リアルパス
+regular	正規
+reserved blocks	予約ブロック
+schedule manager	スケジュールマネージャ
+schema	スキーマ
+search string	検索語
+shaped text	シェイプテキスト
+signature	署名
+signature block	署名ブロック
+slave	スレーブ
+slider	スライダ
+slow terminals	低速端末
+smooth	滑らか
+soft keys	ソフトキー
+software bug	ソフトウェアバグ
+sound card	サウンドカード
+spool	スプール
+startup files	スタートアップファイル
+step increment	ステップ増分
+sticky notes	付箋
+stripchart program	ストリップチャート
+structure diagram	構造ダイアグラム
+subshell support	サブシェルのサポート
+substring	文字列部分
+system settings	システム設定
+tag	タグ
+tall	高さ
+tar archive	tar書庫
+target file	目的のファイル
+task	タスク
+temp file	一時ファイル
+temporary buffer	一時バッファ
+text area	テキストエリア
+textual name	文字表記の名前
+time stamp	タイムスタンプ
+toggle	トグル
+tool menu	ツールメニュー
+topic	題目
+transmission channel	伝送チャネル
+type bindings	型宣言
+unexpected error	予期しないエラー
+user directory	ユーザ・ディレクトリ
+working directory	作業ディレクトリ
+zero	零

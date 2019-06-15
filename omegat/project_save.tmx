@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt;the&lt;/f2&gt; obje&lt;f3&gt;c&lt;/f3&gt;ts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152701Z" creationid="Jun Nogata" creationdate="20190615T152701Z">
+        <seg>オブジェクトを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bold</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150918Z" creationid="Jun Nogata" creationdate="20190615T150918Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150905Z" creationid="Jun Nogata" creationdate="20190615T150905Z">
         <seg>直接設定した書式の解除(WriterとCalc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Co&lt;f0&gt;py&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152906Z" creationid="Jun Nogata" creationdate="20190615T152906Z">
+        <seg>コピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152852Z" creationid="Jun Nogata" creationdate="20190615T152852Z">
+        <seg>切り取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Master Slide</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151055Z" creationid="Jun Nogata" creationdate="20190615T151048Z">
@@ -56,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>Edit the object group</seg>
       </tuv>
-      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151416Z" creationid="Jun Nogata" creationdate="20190615T151416Z">
-        <seg>オブジェクトグループを編集する</seg>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152716Z" creationid="Jun Nogata" creationdate="20190615T151416Z">
+        <seg>オブジェクトグループを編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150345Z" creationid="Jun Nogata" creationdate="20190615T150345Z">
         <seg>プレゼンテーションを終了します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Functions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152819Z" creationid="Jun Nogata" creationdate="20190615T152819Z">
+        <seg>ファイル機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151348Z" creationid="Jun Nogata" creationdate="20190615T151348Z">
         <seg>テキストを枠に合わせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting Functions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152932Z" creationid="Jun Nogata" creationdate="20190615T152932Z">
+        <seg>書式設定機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +170,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152550Z" creationid="Jun Nogata" creationdate="20190615T152550Z">
         <seg>グラフの挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Itálic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152942Z" creationid="Jun Nogata" creationdate="20190615T152942Z">
+        <seg>斜体</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150615Z" creationid="Jun Nogata" creationdate="20190615T150615Z">
         <seg>印刷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sa&lt;f0&gt;ve as&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152843Z" creationid="Jun Nogata" creationdate="20190615T152843Z">
+        <seg>すべて保存</seg>
       </tuv>
     </tu>
     <tu>

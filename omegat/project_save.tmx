@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Quick Tips&lt;/f0&gt;&lt;f1&gt; – &lt;/f1&gt;&lt;f2&gt;Impress&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151031Z" creationid="Jun Nogata" creationdate="20190615T151031Z">
+        <seg>&lt;f0&gt;クイック・ティップス&lt;/f0&gt;&lt;f1&gt; – &lt;/f1&gt;&lt;f2&gt;Impress&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150918Z" creationid="Jun Nogata" creationdate="20190615T150918Z">
+        <seg>太字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Direct Formatting (Writer and Calc)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150905Z" creationid="Jun Nogata" creationdate="20190615T150905Z">
+        <seg>直接設定した書式の解除(WriterとCalc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a new document</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150525Z" creationid="Jun Nogata" creationdate="20190615T150525Z">
         <seg>新規ドキュメントの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Master Slide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151048Z" creationid="Jun Nogata" creationdate="20190615T151048Z">
+        <seg>マスタースライドの編集Edit Master Slide</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spelling and Grammar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150833Z" creationid="Jun Nogata" creationdate="20190615T150833Z">
+        <seg>スペルと文法チェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles and Formatting</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150157Z" creationid="Jun Nogata" creationdate="20190615T150157Z">
         <seg>スタイルと書式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150922Z" creationid="Jun Nogata" creationdate="20190615T150922Z">
+        <seg>下線</seg>
       </tuv>
     </tu>
     <tu>

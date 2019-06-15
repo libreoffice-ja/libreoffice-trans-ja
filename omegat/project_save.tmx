@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>Edit Master Slide</seg>
       </tuv>
-      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151048Z" creationid="Jun Nogata" creationdate="20190615T151048Z">
-        <seg>マスタースライドの編集Edit Master Slide</seg>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151055Z" creationid="Jun Nogata" creationdate="20190615T151048Z">
+        <seg>マスタースライドの編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150742Z" creationid="Jun Nogata" creationdate="20190615T150742Z">
         <seg>検索と置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit text to frame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151348Z" creationid="Jun Nogata" creationdate="20190615T151348Z">
+        <seg>テキストを枠に合わせる</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150833Z" creationid="Jun Nogata" creationdate="20190615T150833Z">
         <seg>スペルと文法チェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start slide show</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151316Z" creationid="Jun Nogata" creationdate="20190615T151316Z">
+        <seg>スライドショーの開始</seg>
       </tuv>
     </tu>
     <tu>

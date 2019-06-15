@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a new document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150525Z" creationid="Jun Nogata" creationdate="20190615T150525Z">
+        <seg>新規ドキュメントの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End presentations</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150345Z" creationid="Jun Nogata" creationdate="20190615T150345Z">
         <seg>プレゼンテーションを終了します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150730Z" creationid="Jun Nogata" creationdate="20190615T150730Z">
+        <seg>検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150541Z" creationid="Jun Nogata" creationdate="20190615T150541Z">
+        <seg>ドキュメントを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150708Z" creationid="Jun Nogata" creationdate="20190615T150708Z">
+        <seg>貼り付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Special</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150716Z" creationid="Jun Nogata" creationdate="20190615T150716Z">
+        <seg>形式を選択して貼り付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Posi&lt;f0&gt;tion and Size&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150222Z" creationid="Jun Nogata" creationdate="20190615T150222Z">
@@ -30,10 +70,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150615Z" creationid="Jun Nogata" creationdate="20190615T150615Z">
+        <seg>印刷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150608Z" creationid="Jun Nogata" creationdate="20190615T150608Z">
+        <seg>ドキュメントの保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150721Z" creationid="Jun Nogata" creationdate="20190615T150721Z">
+        <seg>すべて選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles and Formatting</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150157Z" creationid="Jun Nogata" creationdate="20190615T150157Z">
         <seg>スタイルと書式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150724Z" creationid="Jun Nogata" creationdate="20190615T150724Z">
+        <seg>元に戻す</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

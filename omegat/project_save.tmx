@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End presentations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150345Z" creationid="Jun Nogata" creationdate="20190615T150345Z">
+        <seg>プレゼンテーションを終了します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the next slide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150401Z" creationid="Jun Nogata" creationdate="20190615T150401Z">
+        <seg>次のページに移動します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Posi&lt;f0&gt;tion and Size&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150222Z" creationid="Jun Nogata" creationdate="20190615T150222Z">
+        <seg>位置とサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles and Formatting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150157Z" creationid="Jun Nogata" creationdate="20190615T150157Z">
+        <seg>スタイルと書式設定</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

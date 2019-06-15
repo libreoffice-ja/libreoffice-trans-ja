@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the object group</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151416Z" creationid="Jun Nogata" creationdate="20190615T151416Z">
+        <seg>オブジェクトグループを編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End presentations</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150345Z" creationid="Jun Nogata" creationdate="20190615T150345Z">
@@ -80,8 +88,24 @@
       <tuv lang="EN-US">
         <seg>Go to the next slide</seg>
       </tuv>
-      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150401Z" creationid="Jun Nogata" creationdate="20190615T150401Z">
-        <seg>次のページに移動します</seg>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151637Z" creationid="Jun Nogata" creationdate="20190615T150401Z">
+        <seg>次のページに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the previous slide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151631Z" creationid="Jun Nogata" creationdate="20190615T151631Z">
+        <seg>前のスライドへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump to the last slide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151510Z" creationid="Jun Nogata" creationdate="20190615T151510Z">
+        <seg>最後のスライドへジャンプする</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shortcut keys (all applications)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151705Z" creationid="Jun Nogata" creationdate="20190615T151705Z">
+        <seg>ショートカットキー (すべてのアプリケーション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spelling and Grammar</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150833Z" creationid="Jun Nogata" creationdate="20190615T150833Z">
@@ -178,6 +210,22 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150724Z" creationid="Jun Nogata" creationdate="20190615T150724Z">
         <seg>元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View black screen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151613Z" creationid="Jun Nogata" creationdate="20190615T151521Z">
+        <seg>黒画面を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View white &lt;s0/&gt;screen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151618Z" creationid="Jun Nogata" creationdate="20190615T151544Z">
+        <seg>白&lt;s0/&gt;画面を表示</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Justifi&lt;f0&gt;ed&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152954Z" creationid="Jun Nogata" creationdate="20190615T152954Z">
+        <seg>両端揃え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open document</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T150541Z" creationid="Jun Nogata" creationdate="20190615T150541Z">

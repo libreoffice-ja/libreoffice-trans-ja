@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create group objects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152636Z" creationid="Jun Nogata" creationdate="20190615T152636Z">
+        <seg>オブジェクトをグループ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Master Slide</seg>
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151055Z" creationid="Jun Nogata" creationdate="20190615T151048Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151416Z" creationid="Jun Nogata" creationdate="20190615T151416Z">
         <seg>オブジェクトグループを編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing &lt;f0&gt;F&lt;/f0&gt;unctions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152455Z" creationid="Jun Nogata" creationdate="20190615T152455Z">
+        <seg>編集機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,22 @@
       </tuv>
       <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T151631Z" creationid="Jun Nogata" creationdate="20190615T151631Z">
         <seg>前のスライドへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inser&lt;f0&gt;t image&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152525Z" creationid="Jun Nogata" creationdate="20190615T152525Z">
+        <seg>画像の挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inser&lt;f0&gt;t&lt;/f0&gt; &lt;f1&gt;chart&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Jun Nogata" changedate="20190615T152550Z" creationid="Jun Nogata" creationdate="20190615T152550Z">
+        <seg>グラフの挿入</seg>
       </tuv>
     </tu>
     <tu>

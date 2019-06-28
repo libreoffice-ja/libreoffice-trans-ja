@@ -1,4 +1,3 @@
-
 stardict.dict
 stardict.idx
 stardict.ifo
@@ -6,8 +5,9 @@ stardict.ifo
 *.bak
 *.properties
 
-ja/*
+source/*
 target/*
+!.gitkeep
 
 # Created by https://www.gitignore.io/api/git,vim,kate,emacs,linux,macos,windows,libreoffice,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=git,vim,kate,emacs,linux,macos,windows,libreoffice,visualstudiocode

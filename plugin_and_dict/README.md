@@ -39,7 +39,7 @@ License: GNU General Public License Version 3 or later.
 Plugins
 --------
 
-### okapiFiltersForOmegaT-1.5-m36-dist.zip
+### okapiFiltersForOmegaT-1.6-m38-dist.zip
 
 - http://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT
 - https://bintray.com/okapi/Distribution/OmegaT_Plugin
@@ -47,7 +47,7 @@ Plugins
 License: Apache License, Version 2.0 or GNU Lesser General Public License version 3
 
 
-### omegat-textra-plugin-0.6.zip
+### omegat-textra-plugin-0.8.zip
 
 - https://github.com/miurahr/omegat-textra-plugin
 
